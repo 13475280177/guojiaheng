@@ -1,0 +1,4 @@
+张三 17 O X A X  A A A A A A A X A A
+李四 27 O O O A A A X X X X X X X X X
+李可 5 A X X X A X X X O O O O X X X
+嘉恒 9 O X A A A A A A A A A A A A A
